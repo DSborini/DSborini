@@ -15,7 +15,7 @@
   <img align="center" alt="Daniel-MySql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/mysql/mysql-original.svg">
   <img align="center" alt="Daniel-MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/mongodb/mongodb-original.svg">
 
- <img align="right" alt="cat" height="50px" src="https://cdn.discordapp.com/attachments/794680692705067009/877316811190833213/undefined_-_Imgur.gif">
+ <img align="right" alt="cat" height="110px" src="https://cdn.discordapp.com/attachments/794680692705067009/877316811190833213/undefined_-_Imgur.gif">
 
 </div>
  

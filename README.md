@@ -3,8 +3,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DSborini&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DSborini&layout=compact&langs_count=7&theme=gotham"/>
 </div>
-  
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Daniel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -15,7 +13,7 @@
   <img align="center" alt="Daniel-MySql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/mysql/mysql-original.svg">
   <img align="center" alt="Daniel-MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/mongodb/mongodb-original.svg">
 
- <img align="right" alt="cat" height="110px" src="https://cdn.discordapp.com/attachments/794680692705067009/877316811190833213/undefined_-_Imgur.gif">
+ <img align="right" alt="cat" height="100px" src="https://cdn.discordapp.com/attachments/794680692705067009/877316811190833213/undefined_-_Imgur.gif">
 
 </div>
  
